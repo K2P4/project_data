@@ -340,12 +340,24 @@
 	],
 	"user": [
 		{
+			"id": "1",
 			"email": "pthuya381@gmail.com",
 			"password": "123456"
 		},
 		{
+			"id": "2",
 			"email": "vik8312@gmail.com",
 			"password": "123456"
+		}
+	],
+
+	"contact": [
+		{
+			"id": "1",
+			"name": "Phyo Thura",
+			"phone": "09968213232",
+			"email": "pthuya381@gmail.com",
+			"address": "No 644 Eaindra Street"
 		}
 	],
 
@@ -355,15 +367,6 @@
 			"image2": "../../public/sneakers.png",
 			"image3": "../../public/undraw_empty_cart_co35.png",
 			"image4": "../../public/undraw_order_confirmed_re_g0if.svg"
-		}
-	],
-	"contact-app": [
-		{
-			"id": "1",
-			"name": "Phyo Thura",
-			"phone": "09968213232",
-			"email": "pthuya381@gmail.com",
-			"address": "No 644 Eaindra Street"
 		}
 	]
 }
