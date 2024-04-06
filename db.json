@@ -356,5 +356,14 @@
 			"image3": "../../public/undraw_empty_cart_co35.png",
 			"image4": "../../public/undraw_order_confirmed_re_g0if.svg"
 		}
+	],
+	"contact": [
+		{
+			"id": "1",
+			"name": "Phyo Thura",
+			"phone": "09968213232",
+			"email": "pthuya381@gmail.com",
+			"address": "No 644 Eaindra Street"
+		}
 	]
 }
