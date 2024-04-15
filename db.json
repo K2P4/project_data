@@ -368,5 +368,29 @@
 			"image3": "../../public/undraw_empty_cart_co35.png",
 			"image4": "../../public/undraw_order_confirmed_re_g0if.svg"
 		}
+	],
+
+	"popular": [
+		{
+			"id": "1",
+			"name": "Nike Air Force 1 Blue'",
+			"description": "The Nike Air Force 1 React 'Blue' combines classic AF1 style with modern React foam cushioning technology. It features a white leather upper with blue  and white accents, offering a fresh and contemporary look.",
+			"price": 129.99,
+			"image": "https://img.freepik.com/free-photo/ice-coffee-with-whipped-cream_144627-3801.jpg?t=st=1713192781~exp=1713196381~hmac=c9eb7b9d5abc205d879c8066ad0399f8f53c2c3cc04acf0f1a70650c33421ba1&w=740"
+		},
+		{
+			"id": "2",
+			"name": "Nike Air Force 1 Low 'Green Camo",
+			"description": "The Nike Air Force 1 Low 'Green Camo' features a classic silhouette with a green camouflage pattern on the upper, complemented by red, black, and white accents. It offers iconic style and comfort for all-day wear.",
+			"price": 55.9,
+			"image": "https://pngfile.net/public/uploads/preview/nike-sneaker-shoe-png-11701941830qrjwwbjbwm.png"
+		},
+		{
+			"id": "3",
+			"name": "Nike Air Force 1 Low Purple",
+			"description": "The Nike Air Force 1 Low 'Green Camo' features a classic silhouette with a green camouflage pattern on the upper, complemented by red, black, and white accents. It offers iconic style and comfort for all-day wear.",
+			"price": 55.9,
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBqejIKbLfq3MjP-m863LSYAKZf0QCCOq_R5A273ZDZw&s"
+		}
 	]
 }
