@@ -380,14 +380,14 @@
 		},
 		{
 			"id": "2",
-			"name": "Nike Air Force 1 Blue'",
+			"name": "Nike Air Force 1 Blue",
 			"description": "The Nike Air Force 1 React 'Blue' combines classic AF1 style with modern React foam cushioning technology. It features a white leather upper with blue  and white accents, offering a fresh and contemporary look.",
 			"price": 129.99,
 			"image": "https://img.freepik.com/free-photo/ice-coffee-with-whipped-cream_144627-3801.jpg?t=st=1713192781~exp=1713196381~hmac=c9eb7b9d5abc205d879c8066ad0399f8f53c2c3cc04acf0f1a70650c33421ba1&w=740"
 		},
 		{
 			"id": "3",
-			"name": "Nike Air Force 1 Low 'Green Camo",
+			"name": "Nike Air Force 1 Low Green Camo",
 			"description": "The Nike Air Force 1 Low 'Green Camo' features a classic silhouette with a green camouflage pattern on the upper, complemented by red, black, and white accents. It offers iconic style and comfort for all-day wear.",
 			"price": 55.9,
 			"image": "https://pngfile.net/public/uploads/preview/nike-sneaker-shoe-png-11701941830qrjwwbjbwm.png"
@@ -402,10 +402,18 @@
 
 		{
 			"id": "5",
-			"name": "Nike Air Jordan 1 Retro High OG 'Black Satin'",
+			"name": "Nike Air Jordan 1 Retro High OG Black Satin",
 			"description": "The Nike Air Jordan 1 Retro High OG 'Black Satin' is a limited edition sneaker that features a sleek black satin upper with contrasting red accents on the Nike Swoosh and ankle collar. It pays homage to the iconic Air Jordan 1 silhouette while adding a luxurious twist with its premium materials and unique colorway. With its limited availability, this sneaker is highly sought after by collectors and sneaker enthusiasts alike.",
 			"price": 250.99,
-			"image": "https://png.pngitem.com/pimgs/s/11-118500_nikes-shoes-philippines-hd-png-download.png"
+			"image": "https://parspng.com/wp-content/uploads/2023/02/shoespng.parspng.com_.png"
+		},
+
+		{
+			"id": "6",
+			"name": "Nike Air Force 1 Low University Red",
+			"description": "The Nike Air Force 1 Low 'University Red' is a classic sneaker that features a vibrant red colorway. Known for its timeless design and versatile style, this iconic silhouette is a must-have for sneaker enthusiasts. The University Red upper is accented with white detailing on the Nike Swoosh, laces, and midsole, creating a bold and striking look. With its premium leather construction and Air-Sole cushioning, this sneaker provides both comfort and durability for everyday wear.",
+			"price": 90.0,
+			"image": "https://e7.pngegg.com/pngimages/996/156/png-clipart-red-and-black-air-jordan-1-nike-free-shoe-air-jordan-sneakers-running-shoes-white-outdoor-shoe-thumbnail.png"
 		}
 	]
 }
