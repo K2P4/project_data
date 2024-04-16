@@ -217,7 +217,9 @@
 			"title": "Nike Air Max 90 Blue Void",
 			"description": "The Nike Air Max 90 'Blue Void' is a stylish sneaker featuring a rich blue colorway. With its classic silhouette and modern details, this shoe offers a perfect blend of retro and contemporary style. The Blue Void upper is accented with black and white elements, including the Nike Swoosh and midsole, adding contrast and depth to the design. Equipped with Max Air cushioning, this sneaker delivers plush comfort and cushioning with every step, making it ideal for all-day wear.",
 			"price": 90.0,
-			"image": "https://clipart-library.com/images_k/shoes-transparent-background/shoes-transparent-background-3.png"
+			"images": {
+				"image1": "https://clipart-library.com/images_k/shoes-transparent-background/shoes-transparent-background-3.png"
+			}
 		}
 	],
 
