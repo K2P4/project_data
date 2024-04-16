@@ -195,7 +195,7 @@
 			"title": "Nike Air Max 270",
 			"description": "The Nike Air Max 270 React 'Purple Haze' is a stylish sneaker featuring a vibrant purple colorway. It combines the Air Max 270's iconic Air unit with React foam cushioning for exceptional comfort and support. The purple upper is complemented by black and white accents, creating a bold and eye-catching look. Whether you're hitting the streets or the gym, this sneaker delivers both style and performance.",
 			"price": 149.99,
-			"image": {
+			"images": {
 				"image1": "https://i.ibb.co/HrJ6kGT/images-removebg-preview-4.png"
 			}
 		},
