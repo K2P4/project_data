@@ -162,63 +162,52 @@
 		{
 			"id": "13",
 			"name": "Nike Air Jordan 1 Retro High OG 'Black Satin'",
-			"title": "Nike Air Jordan 1 Retro High OG ",
+			"title": "Nike Air Jordan 1 Retro High OG",
 			"description": "The Nike Air Jordan 1 Retro High OG 'Black Satin' is a limited edition sneaker that features a sleek black satin upper with contrasting red accents on the Nike Swoosh and ankle collar. It pays homage to the iconic Air Jordan 1 silhouette while adding a luxurious twist with its premium materials and unique colorway. With its limited availability, this sneaker is highly sought after by collectors and sneaker enthusiasts alike.",
 			"price": 199.99,
 			"images": {
-				"image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn-aQdocmOfBqPTH4GM1IMsQzhCQXekUoiUg2sQoMjUg&s"
+				"image1": "https://i.ibb.co/T2tR40r/impact-4-basketball-shoes-nmn08j-removebg-preview.png"
 			}
 		},
 		{
 			"id": "14",
 			"name": "Nike Air Force 1 Blue",
-			"title": "Nike Air Force 1 Blue",
+			"title": "Nike Air Force 1",
 			"description": "The Nike Air Force 1 React 'Blue' combines classic AF1 style with modern React foam cushioning technology. It features a white leather upper with blue  and white accents, offering a fresh and contemporary look.",
 			"price": 129.99,
 			"images": {
-				"image1": "https://img.freepik.com/free-photo/ice-coffee-with-whipped-cream_144627-3801.jpg?t=st=1713192781~exp=1713196381~hmac=c9eb7b9d5abc205d879c8066ad0399f8f53c2c3cc04acf0f1a70650c33421ba1&w=740"
+				"image1": "https://i.ibb.co/Yy7yzdb/images-removebg-preview-3.png"
 			}
 		},
 		{
 			"id": "15",
 			"name": "Nike Air Force 1 Low Green Camo",
-			"title": "Nike Air Force 1 Low Green Camo",
+			"title": "Nike Air Force 1 Low ",
 			"description": "The Nike Air Force 1 Low 'Green Camo' features a classic silhouette with a green camouflage pattern on the upper, complemented by red, black, and white accents. It offers iconic style and comfort for all-day wear.",
 			"price": 55.9,
 			"images": {
-				"image1": "https://pngfile.net/public/uploads/preview/nike-sneaker-shoe-png-11701941830qrjwwbjbwm.png"
+				"image1": "https://i.ibb.co/0q94n1N/images-removebg-preview-2.png"
 			}
 		},
 		{
 			"id": "16",
 			"name": "Nike Air Max 270 React 'Purple Haze'",
-			"title": "Nike Air Max 270 React 'Purple Haze'",
+			"title": "Nike Air Max 270",
 			"description": "The Nike Air Max 270 React 'Purple Haze' is a stylish sneaker featuring a vibrant purple colorway. It combines the Air Max 270's iconic Air unit with React foam cushioning for exceptional comfort and support. The purple upper is complemented by black and white accents, creating a bold and eye-catching look. Whether you're hitting the streets or the gym, this sneaker delivers both style and performance.",
 			"price": 149.99,
-			"images": {
-				"image1": "https://clipart-library.com/images_k/shoe-transparent-background/shoe-transparent-background-12.png"
+			"image": {
+				"image1": "https://i.ibb.co/HrJ6kGT/images-removebg-preview-4.png"
 			}
 		},
 
 		{
 			"id": "17",
 			"name": "Nike Air Jordan 1 Retro High OG Black Satin",
-			"title": "Nike Air Jordan 1 Retro High OG Black Satin",
+			"title": "Nike Air Jordan 1 Retro High",
 			"description": "The Nike Air Jordan 1 Retro High OG 'Black Satin' is a limited edition sneaker that features a sleek black satin upper with contrasting red accents on the Nike Swoosh and ankle collar. It pays homage to the iconic Air Jordan 1 silhouette while adding a luxurious twist with its premium materials and unique colorway. With its limited availability, this sneaker is highly sought after by collectors and sneaker enthusiasts alike.",
 			"price": 250.99,
 			"images": {
-				"image1": "https://parspng.com/wp-content/uploads/2023/02/shoespng.parspng.com_.png"
-			}
-		},
-
-		{
-			"id": "18",
-			"name": "Nike Air Max 90 Blue Void",
-			"title": "Nike Air Max 90 Blue Void",
-			"description": "The Nike Air Max 90 'Blue Void' is a stylish sneaker featuring a rich blue colorway. With its classic silhouette and modern details, this shoe offers a perfect blend of retro and contemporary style. The Blue Void upper is accented with black and white elements, including the Nike Swoosh and midsole, adding contrast and depth to the design. Equipped with Max Air cushioning, this sneaker delivers plush comfort and cushioning with every step, making it ideal for all-day wear.",
-			"price": 90.0,
-			"images": {
-				"image1": "https://clipart-library.com/images_k/shoes-transparent-background/shoes-transparent-background-3.png"
+				"image1": "https://i.ibb.co/nmw590K/images-removebg-preview-1.png"
 			}
 		}
 	],
