@@ -161,7 +161,7 @@
 		},
 		{
 			"id": "13",
-			"name": "Nike Air Jordan 1 Retro High OG 'Black Satin'",
+			"name": "Nike Air Jordan 1 Green",
 			"title": "Nike Air Jordan 1 Retro High OG",
 			"description": "The Nike Air Jordan 1 Retro High OG 'Black Satin' is a limited edition sneaker that features a sleek black satin upper with contrasting red accents on the Nike Swoosh and ankle collar. It pays homage to the iconic Air Jordan 1 silhouette while adding a luxurious twist with its premium materials and unique colorway. With its limited availability, this sneaker is highly sought after by collectors and sneaker enthusiasts alike.",
 			"price": 199.99,
@@ -181,7 +181,7 @@
 		},
 		{
 			"id": "15",
-			"name": "Nike Air Force 1 Low Green Camo",
+			"name": "Nike Air Force1 Green Camo",
 			"title": "Nike Air Force 1 Low ",
 			"description": "The Nike Air Force 1 Low 'Green Camo' features a classic silhouette with a green camouflage pattern on the upper, complemented by red, black, and white accents. It offers iconic style and comfort for all-day wear.",
 			"price": 55.9,
@@ -191,7 +191,7 @@
 		},
 		{
 			"id": "16",
-			"name": "Nike Air Max 270 React 'Purple Haze'",
+			"name": "Nike Air Max 270 ",
 			"title": "Nike Air Max 270",
 			"description": "The Nike Air Max 270 React 'Purple Haze' is a stylish sneaker featuring a vibrant purple colorway. It combines the Air Max 270's iconic Air unit with React foam cushioning for exceptional comfort and support. The purple upper is complemented by black and white accents, creating a bold and eye-catching look. Whether you're hitting the streets or the gym, this sneaker delivers both style and performance.",
 			"price": 149.99,
@@ -202,7 +202,7 @@
 
 		{
 			"id": "17",
-			"name": "Nike Air Jordan 1 Retro High OG Black Satin",
+			"name": "Nike Air Jordan 1 Retro High",
 			"title": "Nike Air Jordan 1 Retro High",
 			"description": "The Nike Air Jordan 1 Retro High OG 'Black Satin' is a limited edition sneaker that features a sleek black satin upper with contrasting red accents on the Nike Swoosh and ankle collar. It pays homage to the iconic Air Jordan 1 silhouette while adding a luxurious twist with its premium materials and unique colorway. With its limited availability, this sneaker is highly sought after by collectors and sneaker enthusiasts alike.",
 			"price": 250.99,
@@ -291,6 +291,47 @@
 				"image4": "https://img01.ztat.net/article/spp-media-p1/8ca4282db17f4565b1cd2059d071c2d8/d4d39662797848f09e2f8774f86d180a.jpg?imwidth=1800"
 			},
 			"price": 881
+		},
+		{
+			"id": "7",
+			"name": "Nike Air Force 1 Blue",
+			"title": "Nike Air Force 1",
+			"description": "The Nike Air Force 1 React 'Blue' combines classic AF1 style with modern React foam cushioning technology. It features a white leather upper with blue  and white accents, offering a fresh and contemporary look.",
+			"price": 129.99,
+			"images": {
+				"image1": "https://i.ibb.co/Yy7yzdb/images-removebg-preview-3.png"
+			}
+		},
+		{
+			"id": "8",
+			"name": "Nike Air Force1 Green Camo",
+			"title": "Nike Air Force 1 Low ",
+			"description": "The Nike Air Force 1 Low 'Green Camo' features a classic silhouette with a green camouflage pattern on the upper, complemented by red, black, and white accents. It offers iconic style and comfort for all-day wear.",
+			"price": 55.9,
+			"images": {
+				"image1": "https://i.ibb.co/0q94n1N/images-removebg-preview-2.png"
+			}
+		},
+		{
+			"id": "9",
+			"name": "Nike Air Max 270 ",
+			"title": "Nike Air Max 270",
+			"description": "The Nike Air Max 270 React 'Purple Haze' is a stylish sneaker featuring a vibrant purple colorway. It combines the Air Max 270's iconic Air unit with React foam cushioning for exceptional comfort and support. The purple upper is complemented by black and white accents, creating a bold and eye-catching look. Whether you're hitting the streets or the gym, this sneaker delivers both style and performance.",
+			"price": 149.99,
+			"images": {
+				"image1": "https://i.ibb.co/HrJ6kGT/images-removebg-preview-4.png"
+			}
+		},
+
+		{
+			"id": "10",
+			"name": "Nike Air Jordan 1 Retro High",
+			"title": "Nike Air Jordan 1 Retro High",
+			"description": "The Nike Air Jordan 1 Retro High OG 'Black Satin' is a limited edition sneaker that features a sleek black satin upper with contrasting red accents on the Nike Swoosh and ankle collar. It pays homage to the iconic Air Jordan 1 silhouette while adding a luxurious twist with its premium materials and unique colorway. With its limited availability, this sneaker is highly sought after by collectors and sneaker enthusiasts alike.",
+			"price": 250.99,
+			"images": {
+				"image1": "https://i.ibb.co/nmw590K/images-removebg-preview-1.png"
+			}
 		}
 	],
 
@@ -386,6 +427,26 @@
 				"image2": "https://img01.ztat.net/article/spp-media-p1/42abd9e29457458db54a2ba4d3f0e196/260173f2af904ed381ea6b8588a7a56d.jpg?imwidth=1800",
 				"image3": "https://img01.ztat.net/article/spp-media-p1/3a0d8ad49bcd4dbb83d62fa4b3e8da3c/8e41dfd1647342c4a7134d754d6179af.jpg?imwidth=1800",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/a541df83ee3540419e13a1edc5c25195/9ef8d7aac97b4986b0031c2a5013adc5.jpg?imwidth=1800"
+			}
+		},
+		{
+			"id": "12",
+			"name": "Nike Air Jordan 1 Green",
+			"title": "Nike Air Jordan 1 Retro High OG",
+			"description": "The Nike Air Jordan 1 Retro High OG 'Black Satin' is a limited edition sneaker that features a sleek black satin upper with contrasting red accents on the Nike Swoosh and ankle collar. It pays homage to the iconic Air Jordan 1 silhouette while adding a luxurious twist with its premium materials and unique colorway. With its limited availability, this sneaker is highly sought after by collectors and sneaker enthusiasts alike.",
+			"price": 199.99,
+			"images": {
+				"image1": "https://i.ibb.co/T2tR40r/impact-4-basketball-shoes-nmn08j-removebg-preview.png"
+			}
+		},
+		{
+			"id": "13",
+			"name": "Nike Air Force 1 Pink",
+			"title": "Nike Air Force 1",
+			"description": "The Nike Air Force 1 React 'Blue' combines classic AF1 style with modern React foam cushioning technology. It features a white leather upper with blue  and white accents, offering a fresh and contemporary look.",
+			"price": 129.99,
+			"images": {
+				"image1": "https://i.ibb.co/Yy7yzdb/images-removebg-preview-3.png"
 			}
 		}
 	],
