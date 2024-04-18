@@ -11,7 +11,8 @@
 				"image2": "https://img01.ztat.net/article/spp-media-p1/d59fd29a01064b6ab81ae76554132adf/e363f71df0464f4689b4b91416169b0d.jpg?imwidth=1800",
 				"image3": "https://img01.ztat.net/article/spp-media-p1/fdb308947f674f8ea3839a081460bb65/674675f2d0e34e6d96b6ccbe41d9e04a.jpg?imwidth=762",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/303b98177c944b14975f75e67c686d2d/47ba36444eae41e6b01bf9a70f7f9d54.jpg?imwidth=1800"
-			}
+			},
+			"status": "new"
 		},
 		{
 			"id": "2",
@@ -24,7 +25,9 @@
 				"image2": "https://img01.ztat.net/article/spp-media-p1/c1c73d65119240e6898caf8f41ab629f/8730d06f18e84dfbb246329d7ba8ec31.jpg?imwidth=762",
 				"image3": "https://img01.ztat.net/article/spp-media-p1/469a904f7ddd4c1ca82cc01a9cab84f7/ee4bdfe7d6b84a729a97be068c2097c2.jpg?imwidth=1800",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/61a38a2ea0c44eaa8f5cc1fb22d36def/2756b512467545588a4cdf168232cbf6.jpg?imwidth=1800"
-			}
+			},
+			"discount": "40%",
+			"status": "discount"
 		},
 		{
 			"id": "3",
@@ -37,7 +40,8 @@
 				"image2": "https://img01.ztat.net/article/spp-media-p1/870a9be76b04331187cf0cb72623e762/b66d4e2da85d4da39e08443c71278d6c.jpg?imwidth=1800",
 				"image3": "https://img01.ztat.net/article/spp-media-p1/8f87a387255e3bc2a078df816f3dc388/46a105d70eeb438c903756fcc02e5a46.jpg?imwidth=1800",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/688d12ed983a3ac3ab61a9d3da43f906/c6619cbe51b94d4caca7e85c9e4fd679.jpg?imwidth=1800"
-			}
+			},
+			"status": "most"
 		},
 		{
 			"id": "4",
@@ -50,7 +54,8 @@
 				"image2": "https://img01.ztat.net/article/spp-media-p1/3ff0a256c5c5406f8ca8751a0d31a90f/48806cd50b224ef9acfcef483418dcd0.jpg?imwidth=1800",
 				"image3": "https://img01.ztat.net/article/spp-media-p1/be82716f402a4cfda0a9ca44365695b6/0b60c0b572d84727af23a4ab2eed7c2e.jpg?imwidth=762",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/c1bc210a60b645f5829b97a043d8b5be/77c9e75c487f4de18dd0209d41b8dfdc.jpg?imwidth=762"
-			}
+			},
+			"status": "new"
 		},
 		{
 			"id": "5",
@@ -64,7 +69,8 @@
 				"image2": "https://img01.ztat.net/article/spp-media-p1/bf9ca375291c30c8a70ef2a5b345a55d/23f076fd1d744b039abc83a9ced74e92.jpg?imwidth=762",
 				"image3": "https://img01.ztat.net/article/spp-media-p1/c4f797bb383f349fb7a3541f828ecd84/109684313fd040c3b0d3792c880c13f6.jpg?imwidth=762",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/aa18f01441193180a65c77236a150adb/648eee073ef14e2f8869eea0188d8ff6.jpg?imwidth=762"
-			}
+			},
+			"status": "discount"
 		},
 		{
 			"id": "6",
@@ -78,7 +84,8 @@
 				"image2": "https://img01.ztat.net/article/spp-media-p1/ef65c53fdf5440faa396b40b459eb9a3/8ab2e49d54cb4bdb8d87b0f00df0502b.jpg?imwidth=762",
 				"image3": "https://img01.ztat.net/article/spp-media-p1/b4158d670f354efb87a13f165421b04d/c43b11d3184c46ef8e970066d5a2f68f.jpg?imwidth=762",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/a83a7c42b60c463ca65d44197116fe30/6d3b61146e7c4ebebdce012884c74171.jpg?imwidth=762"
-			}
+			},
+			"status": "new"
 		},
 		{
 			"id": "7",
@@ -91,7 +98,8 @@
 				"image2": "https://img01.ztat.net/article/spp-media-p1/77826576d53f4e2f90bff3df5c7e97e4/261e1ab0564f48278a96463decdadeb1.jpg?imwidth=762",
 				"image3": "https://img01.ztat.net/article/spp-media-p1/73bff33367ab49d2a52d2d6db2dddce4/873dcc2ad2094732add037e577ab43a0.jpg?imwidth=762",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/bd95f82fe334408ead67831a703544b6/e80f636bbbfa4e3288349e58b0b0a2fa.jpg?imwidth=762"
-			}
+			},
+			"status": "most"
 		},
 		{
 			"id": 8,
@@ -104,7 +112,10 @@
 				"image3": "https://img01.ztat.net/article/spp-media-p1/167cafe4d71b48c9ba8efa54e96add4d/821f8f99c8414d82a7883fa6d5ebdacc.jpg?imwidth=762",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/aa94c4b9af094a7b908a561bd1d4dcd8/22d3517546d94deea46dde2bfe927933.jpg?imwidth=762"
 			},
-			"price": 79.99
+			"price": 79.99,
+			"discount":"40%",
+			"status":"discount"
+
 		},
 		{
 			"id": "9",
@@ -118,7 +129,8 @@
 				"image3": "https://img01.ztat.net/article/spp-media-p1/23bfa4a0b3084f70958b6f5fd7552fbc/3fd3657679574ba7a3cf788adb330eac.jpg?imwidth=762",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/2277a5c684d54ea28433d366ab9bfd4d/f5ed9087eaf34f089abdbf3853d9fdfb.jpg?imwidth=762"
 			},
-			"price": 110.99
+			"price": 110.99,
+			"status": "discount"
 		},
 		{
 			"id": "10",
@@ -131,7 +143,8 @@
 				"image3": "https://img01.ztat.net/article/spp-media-p1/aff6f8c5a36f46c2bf93bf9d040a69a9/07b14fb15ed84489b44b8d1d544d11d1.jpg?imwidth=762",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/68eaa37cdf6c46d7a31e4ed3fee1946b/238a68788cdd485da53724bdd38e9ea7.jpg?imwidth=762"
 			},
-			"price": 64.99
+			"price": 64.99,
+			"status": "most"
 		},
 		{
 			"id": "11",
@@ -144,7 +157,8 @@
 				"image3": "https://img01.ztat.net/article/spp-media-p1/3a0d8ad49bcd4dbb83d62fa4b3e8da3c/8e41dfd1647342c4a7134d754d6179af.jpg?imwidth=1800",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/a541df83ee3540419e13a1edc5c25195/9ef8d7aac97b4986b0031c2a5013adc5.jpg?imwidth=1800"
 			},
-			"price": 1248.99
+			"price": 1248.99,
+			"status": "new"
 		},
 		{
 			"id": "12",
@@ -157,7 +171,8 @@
 				"image3": "https://img01.ztat.net/article/spp-media-p1/df852a46856140f1a058acf160dad1cc/ca5489b6a58d45e48b8fc39cf8d0d385.jpg?imwidth=1800",
 				"image4": "https://img01.ztat.net/article/spp-media-p1/8ca4282db17f4565b1cd2059d071c2d8/d4d39662797848f09e2f8774f86d180a.jpg?imwidth=1800"
 			},
-			"price": 881
+			"price": 881,
+			"status": "new"
 		},
 		{
 			"id": "13",
@@ -167,7 +182,8 @@
 			"price": 199.99,
 			"images": {
 				"image1": "https://i.ibb.co/T2tR40r/impact-4-basketball-shoes-nmn08j-removebg-preview.png"
-			}
+			},
+			"status": "new"
 		},
 		{
 			"id": "14",
@@ -177,7 +193,8 @@
 			"price": 129.99,
 			"images": {
 				"image1": "https://i.ibb.co/Yy7yzdb/images-removebg-preview-3.png"
-			}
+			},
+			"status": "new"
 		},
 		{
 			"id": "15",
@@ -187,7 +204,8 @@
 			"price": 55.9,
 			"images": {
 				"image1": "https://i.ibb.co/0q94n1N/images-removebg-preview-2.png"
-			}
+			},
+			"status": "new"
 		},
 		{
 			"id": "16",
@@ -197,7 +215,8 @@
 			"price": 149.99,
 			"images": {
 				"image1": "https://i.ibb.co/HrJ6kGT/images-removebg-preview-4.png"
-			}
+			},
+			"status": "most"
 		},
 
 		{
@@ -208,7 +227,8 @@
 			"price": 250.99,
 			"images": {
 				"image1": "https://i.ibb.co/nmw590K/images-removebg-preview-1.png"
-			}
+			},
+			"status": "new"
 		}
 	],
 
