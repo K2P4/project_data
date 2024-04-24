@@ -113,9 +113,8 @@
 				"image4": "https://img01.ztat.net/article/spp-media-p1/aa94c4b9af094a7b908a561bd1d4dcd8/22d3517546d94deea46dde2bfe927933.jpg?imwidth=762"
 			},
 			"price": 79.99,
-			"discount":"40%",
-			"status":"discount"
-
+			"discount": "40%",
+			"status": "discount"
 		},
 		{
 			"id": "9",
@@ -621,6 +620,68 @@
 			"description": "The Authentic is the original Vans silhouette. First introduced in 1966 and driven forward by creative culture ever since, this time-honored shoe keeps the old school vibe alive with sturdy canvas uppers in seasonal colorways. With its classic low-top design and iconic rubber waffle outsole, the Authentic is a blank canvas for creativity that allows you to do your thing in your own unique way",
 			"discount": "50%",
 			"image": "https://i.ibb.co/9czHf5f/15bbaac9436d4affba2773bc6b032f98-removebg-preview.png"
+		}
+	],
+
+	"diet": [
+		{
+			"id": "1",
+			"price": "100",
+			"name": "Special Set",
+			"rating": "4.1",
+			"description": "Energize with our nutritious healthy salad, bursting with fresh greens and vibrant superfoods.",
+			"available": "110",
+			"status": "hot",
+			"image": "https://i.ibb.co/XzrZhFv/product1.png"
+		},
+		{
+			"id": "2",
+			"price": "50",
+			"name": "Healthy Salad",
+			"rating": "4.3",
+			"description": "Energize with our nutritious healthy salad, bursting with fresh greens and vibrant superfoods.",
+			"available": "70",
+			"image": "https://i.ibb.co/McG1yQY/product2.png"
+		},
+		{
+			"id": "3",
+			"price": "150",
+			"name": "Korean Set",
+			"rating": "4.1",
+			"description": "Energize with our nutritious healthy salad, bursting with fresh greens and vibrant superfoods.",
+			"available": "90",
+			"status": "hot",
+			"image": "https://i.ibb.co/pL0gsPB/product3.png"
+		},
+		{
+			"id": "4",
+			"price": "100",
+			"name": "Special Set",
+			"rating": "4.1",
+			"description": "Energize with our nutritious healthy salad, bursting with fresh greens and vibrant superfoods.",
+			"available": "110",
+			"status": "hot",
+			"image": "https://i.ibb.co/XzrZhFv/product1.png"
+		},
+		{
+			"id": "5",
+			"price": "50",
+			"name": "Healthy Salad",
+			"rating": "4.3",
+			"description": "Energize with our nutritious healthy salad, bursting with fresh greens and vibrant superfoods.",
+			"available": "70",
+			"image": "https://i.ibb.co/McG1yQY/product2.png",
+			"status": "hot"
+		},
+		{
+			"id": "6",
+			"price": "150",
+			"name": "Korean Set",
+			"rating": "4.1",
+			"description": "Energize with our nutritious healthy salad, bursting with fresh greens and vibrant superfoods.",
+			"available": "90",
+			"status": "hot",
+			"image": "https://i.ibb.co/pL0gsPB/product3.png"
 		}
 	]
 }
