@@ -180,7 +180,10 @@
 			"description": "The Nike Air Jordan 1 Retro High OG 'Black Satin' is a limited edition sneaker that features a sleek black satin upper with contrasting red accents on the Nike Swoosh and ankle collar. It pays homage to the iconic Air Jordan 1 silhouette while adding a luxurious twist with its premium materials and unique colorway. With its limited availability, this sneaker is highly sought after by collectors and sneaker enthusiasts alike.",
 			"price": 199.99,
 			"images": {
-				"image1": "https://i.ibb.co/T2tR40r/impact-4-basketball-shoes-nmn08j-removebg-preview.png"
+				"image1": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/755d0063-9ecc-4125-994e-18169727a245/react-hyperdunk-2017-low-mens-basketball-shoe-2by1jP.png",
+				"image2": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/abe1a4fd-1ce8-4f99-834d-bc13799be08c/react-hyperdunk-2017-low-mens-basketball-shoe-2by1jP.png",
+				"image3": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8bd0e3cc-f3fb-40ec-b927-df330f859cd9/react-hyperdunk-2017-low-mens-basketball-shoe-2by1jP.png",
+				"image4": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/affdafe9-3a3d-4ddd-9f01-52982bfc4ff2/react-hyperdunk-2017-low-mens-basketball-shoe-2by1jP.png",
 			},
 			"status": "new"
 		},
@@ -191,7 +194,10 @@
 			"description": "The Nike Air Force 1 React 'Blue' combines classic AF1 style with modern React foam cushioning technology. It features a white leather upper with blue  and white accents, offering a fresh and contemporary look.",
 			"price": 129.99,
 			"images": {
-				"image1": "https://i.ibb.co/Yy7yzdb/images-removebg-preview-3.png"
+				"image1": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/ac359696-6937-433e-82ea-7881eb692d1a/zoom-superfly-elite-2-track-field-sprinting-spikes-Lj6WXS.png",
+				"image2": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/535b935d-e858-4de7-9016-cebb057e7d1b/zoom-superfly-elite-2-track-field-sprinting-spikes-Lj6WXS.png",
+				"image3": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4fcd9ee7-599c-4a45-a878-6a846c8640d0/zoom-superfly-elite-2-track-field-sprinting-spikes-Lj6WXS.png",
+				"image4": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8d969294-75ff-4900-9d49-29a4b00225f5/zoom-superfly-elite-2-track-field-sprinting-spikes-Lj6WXS.png",
 			},
 			"status": "new"
 		},
