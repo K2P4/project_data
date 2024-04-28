@@ -702,51 +702,62 @@
 	"blog":[
 		{
 			"id":"1",
+			"name":"New Version",
 			"image":"https://on3-step.com/tf/expedition/expedition-v1/img/11.jpg"
 		},
 		{
 			"id":"2",
+			"name":"New Version",
 			"image":"https://on3-step.com/tf/expedition/expedition-v1/img/10.jpg"
 		},
 		{
 			"id":"3",
+			"name":"Default Version",
 			"image":"https://on3-step.com/tf/expedition/expedition-v1/img/7.jpg"
 		},
 		{
 			"id":"4",
+			"name":"Color Slider",
 			"image":"https://on3-step.com/tf/expedition/expedition-v1/img/8.jpg"
 		},
 
 		{
 			"id":"5",
+			"name":"Slider Version",
 			"image":"https://on3-step.com/tf/expedition/expedition-v1/img/9.jpg"
 		},
 		{
 			"id":"6",
+			"name":"Default Version",
 			"image":"https://on3-step.com/tf/expedition/expedition-v1/img/1.jpg"
 		},
 			{
 			"id":"7",
+			"name":"Comingsoon Version",
 			"image":"https://on3-step.com/tf/expedition/expedition-v1/img/2.jpg"
 		}
 		,
 			{
 			"id":"8",
+			"name":"Particle Version",
 			"image":"https://on3-step.com/tf/expedition/expedition-v1/img/3.jpg"
 		}
 		,
 			{
 			"id":"9",
+			"name":"Slideshow Version",
 			"image":"https://on3-step.com/tf/expedition/expedition-v1/img/4.jpg"
 		}
 		,
 			{
 			"id":"10",
+			"name":"Video Version",
 			"image":"https://on3-step.com/tf/expedition/expedition-v1/img/5.jpg"
 		}
 		,
 			{
 			"id":"11",
+			"name":"404 Version",
 			"image":"https://on3-step.com/tf/expedition/expedition-v1/img/6.jpg"
 		}
 		
