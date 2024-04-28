@@ -771,7 +771,9 @@
 			"name":"Roadtrip with closest friends",
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-101.jpg",
 			"date":"JULY 1 2020",
-			"writer":"BY LINDA FORD"
+			"writer":"BY LINDA FORD",
+			"number":"1"
+			
 
 		},
 			{
@@ -781,7 +783,8 @@
 			"name":"Detail that make evey outfit great",
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-75.jpg",
 			"date":"APRIL 19,2021 ",
-			"writer":"BY LINDA FORD"
+			"writer":"BY LINDA FORD",
+			"number":"2"
 
 		},
 		{
@@ -789,9 +792,10 @@
 			"type":"TRAVEL",
 
 			"name":"Get useful  travel tips ,news & advice",
-			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-75.jpg",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/07/blog-list-img-105.jpg",
 			"date":"JULY 2,2020 ",
-			"writer":"BY LINDA FORD"
+			"writer":"BY LINDA FORD",
+			"number":"3"
 
 		}
 	]
