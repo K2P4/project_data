@@ -772,19 +772,21 @@
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-101.jpg",
 			"date":"JULY 1 2020",
 			"writer":"BY LINDA FORD",
-			"number":"1"
+			"number":"1",
+			"lastNumer":"3"
 			
 
 		},
 			{
 			"id":"2",
-			"type":"INSIRATION",
+			"type":"INSPIRATION",
 
 			"name":"Detail that make evey outfit great",
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-75.jpg",
 			"date":"APRIL 19,2021 ",
 			"writer":"BY LINDA FORD",
-			"number":"2"
+			"number":"2",
+			"lastNumer":"2"
 
 		},
 		{
@@ -795,7 +797,91 @@
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/07/blog-list-img-105.jpg",
 			"date":"JULY 2,2020 ",
 			"writer":"BY LINDA FORD",
-			"number":"3"
+			"number":"3",
+			"lastNumer":"1"
+
+		}
+	],
+	"LatestPosts":[
+		{
+			"id":"1",
+			"type":"TRAVEL",
+
+			"name":"Ten of our favourite sunglasses this season",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-76.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+			
+
+		},
+		{
+			"id":"2",
+			"type":"TRAVEL",
+
+			"name":"Vintage camper van for a summer adventure",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-77.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+			
+
+		},
+		{
+			"id":"3",
+			"type":"TRAVEL",
+
+			"name":"Rigin camels through the Sahara Desert",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-78.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+			
+
+		}
+		,
+		{
+			"id":"4",
+			"type":"TRAVEL",
+
+			"name":"A tour through the old Moroccan city",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-79.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+			
+
+		}
+		,
+		{
+			"id":"5",
+			"type":"TRAVEL",
+
+			"name":"Top five perfumes for a summer holiday ",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-80.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+			
+
+		}
+		,
+		{
+			"id":"6",
+			"type":"TRAVEL",
+
+			"name":" The best breakfast spots in Istanbul,Turkey ",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-81.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+			
 
 		}
 	]
