@@ -884,5 +884,40 @@
 			
 
 		}
+	],
+	"SlideZoya":[
+		{
+			"id":"1",
+			"type":"TRAVEL",
+
+			"name":"Various catus species in Arizona’s Sonoran Desert",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-88.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+
+			
+
+		},
+		{
+			"id":"2",
+			"type":"TRAVEL",
+
+			"name":"Documenting your memories while travelling",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-89.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+
+			
+
+		},
+		
+		
+		
 	]
 }
