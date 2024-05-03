@@ -906,5 +906,34 @@
 
 		}	
 		
+	],
+	"ZoyaPouplar":[
+		{
+			"id":"1",
+			"type":"INSPIRATION",
+			"name":"Mid-century furniture in 21st century home",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/08/blog-list-img-69.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"2",
+			"type":"INSPIRATION",
+			"name":"Morning rituals to start your day off right",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-list-img-70.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"3",
+			"type":"INSPIRATION",
+			"name":"Is getting a dog the best decision for you?",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-list-img-71.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		}
 	]
 }
