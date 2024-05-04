@@ -988,7 +988,7 @@
 			"type":"ENTERTAINMENT",
 			"name":"How to write a heart-warming love letter",
 			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
-			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-83.jpg",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-84.jpg",
 			"date":"APRIL 19,2021 ",
 			"writer":"BY MADISON BURTON"
 		},
@@ -1049,6 +1049,56 @@
 				"date":"APRIL 19,2021 ",
 				"writer":"BY MADISON BURTON"
 			}
+		
+	],
+	"InstagramList":[
+		{
+			"id":"1",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/196467978_475533720194029_1144985127975019508_nlow.jpg"
+		
+		},
+		{
+			"id":"2",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/196093557_931860337599919_3521480414237937214_nlow.jpg"
+		
+		},
+		{
+			"id":"3",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/196289265_512667126553303_108529473582482048_nlow.jpg"
+		
+		},
+		{
+			"id":"4",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/196344747_938865436966252_4405379707680158927_nlow.jpg"
+		
+		},
+		{
+			"id":"5",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/169944754_488994295563611_4792876588906337199_nlow.jpg"
+		
+		},
+		
+		{
+			"id":"6",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/169944754_488994295563611_4792876588906337199_nlow.jpg"
+		
+		},
+			
+		{
+			"id":"7",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/170063661_443371803392120_5897278314017187254_nlow.jpg"
+		
+		},
+		{
+			"id":"8",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/170235659_1350067365393382_5439941051645121259_nlow.jpg"
+		
+		},
+		{
+			"id":"9",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/169885591_909583063170075_8748890230748210276_nlow.jpg"
+		
+		},
 		
 	]
 }
