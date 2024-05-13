@@ -1083,6 +1083,270 @@
 		
 		
 	],
+
+	"ZoyaAllProducts":[
+		{
+			"id":"1",
+			"type":"TRAVEL",
+
+			"name":"Ten of our favourite sunglasses this season",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-76.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+			
+
+		},
+		{
+			"id":"2",
+			"type":"TRAVEL",
+
+			"name":"Vintage camper van for a summer adventure",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-77.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+			
+
+		},
+		{
+			"id":"3",
+			"type":"TRAVEL",
+
+			"name":"Rigin camels through the Sahara Desert",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-78.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+			
+
+		}
+		,
+		{
+			"id":"4",
+			"type":"TRAVEL",
+
+			"name":"A tour through the old Moroccan city",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-79.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+			
+
+		}
+		,
+		{
+			"id":"5",
+			"type":"TRAVEL",
+
+			"name":"Top five perfumes for a summer holiday ",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-80.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+			
+
+		}
+		,
+		{
+			"id":"6",
+			"type":"TRAVEL",
+
+			"name":" The best breakfast spots in Istanbul,Turkey ",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-81.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+			
+			
+			
+
+		},
+		{
+			"id":"7",
+			"type":"TRAVEL",
+			"name":"Various catus species in Arizona’s Sonoran Desert",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-88.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"
+		},
+		{
+			"id":"8",
+			"type":"TRAVEL",
+			"name":"Documenting your memories while travelling",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-89.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY NICOLE CUNNIGHAM"		
+
+		},
+		{
+			"id":"9",
+			"type":"INSPIRATION",
+			"name":"Mid-century furniture in 21st century home",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/08/blog-list-img-69.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"10",
+			"type":"INSPIRATION",
+			"name":"Morning rituals to start your day off right",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-list-img-70.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"11",
+			"type":"INSPIRATION",
+			"name":"Is getting a dog the best decision for you?",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-list-img-71.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},	{
+			"id":"12",
+			"type":"INSPIRATION",
+			"name":"Breakfast ideas to recreate at home",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/10/blog-list-img-72.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"13",
+			"type":"INSPIRATION",
+			"name":"Gel face creams for hydrated & plump skin",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/11/blog-list-img-73.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"14",
+			"type":"INSPIRATION",
+			"name":"Top 5 photo printers to save your memories",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/12/blog-list-img-74.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		
+		{
+			"id":"15",
+			"type":"INSPIRATION",
+			"name":"New clean beauty hair products to try out",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/12/blog-list-img-82.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"16",
+			"type":"BEAUTY",
+			"name":"New clean beauty hair products to try out",
+			"description":"Improving your fashion photography skills",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-83.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"17",
+			"type":"ENTERTAINMENT",
+			"name":"How to write a heart-warming love letter",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-84.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"18",
+			"type":"BEAUTY",
+			"name":"Beginner’s guide to luxury skincare brands",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-85.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"19",
+			"type":"TRAVEL",
+			"name":"Ten ways to improve your photography",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-86.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"20",
+			"type":"LIFESTYLE",
+			"name":"How to recreate fancy latte art at home",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/01/blog-list-img-87.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},	{
+			"id":"21",
+			"type":"INSPIRATION",
+			"name":"Brand new designs",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-list-img-71.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"22",
+			"type":"BEAUTY",
+			"name":"Amazing color palettes",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-list-img-70.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"23",
+			"type":"BEAUTY",
+			"name":"Amazing color palettes",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/08/blog-list-img-69.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},{
+			"id":"25",
+			"type":"INSPIRATION",
+			"name":"Earrings girls love to wear all the time",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-img-2.jpg",
+			"date":"FEBRUARY 1, 2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"26",
+			"type":"INSPIRATION",
+			"name":"Trends we are loving this spring",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-img-3.jpg",
+			"date":"JANUARY 14, 2021",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"27",
+			"type":"INSPIRATION",
+			"name":"Ten amazing tips for a beautiful smile",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-img-4.jpg",
+			"date":"DECEMBER 1, 2020",
+			"writer":"BY MADISON BURTON"
+		}
+		
+	]
 	"InstagramList":[
 		{
 			"id":"1",
