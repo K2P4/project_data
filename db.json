@@ -1054,7 +1054,7 @@
 
 	"DetailPost":[
 		{
-			"id":"25",
+			"id":"24",
 			"type":"INSPIRATION",
 			"name":"Earrings girls love to wear all the time",
 			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
@@ -1063,7 +1063,7 @@
 			"writer":"BY MADISON BURTON"
 		},
 		{
-			"id":"26",
+			"id":"25",
 			"type":"INSPIRATION",
 			"name":"Trends we are loving this spring",
 			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
@@ -1072,7 +1072,7 @@
 			"writer":"BY MADISON BURTON"
 		},
 		{
-			"id":"27",
+			"id":"26",
 			"type":"INSPIRATION",
 			"name":"Ten amazing tips for a beautiful smile",
 			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
@@ -1292,7 +1292,8 @@
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/01/blog-list-img-87.jpg",
 			"date":"APRIL 19,2021 ",
 			"writer":"BY MADISON BURTON"
-		},	{
+		},	
+		{
 			"id":"21",
 			"type":"INSPIRATION",
 			"name":"Brand new designs",
@@ -1319,7 +1320,7 @@
 			"date":"APRIL 19,2021 ",
 			"writer":"BY MADISON BURTON"
 		},{
-			"id":"25",
+			"id":"24",
 			"type":"INSPIRATION",
 			"name":"Earrings girls love to wear all the time",
 			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
@@ -1328,7 +1329,7 @@
 			"writer":"BY MADISON BURTON"
 		},
 		{
-			"id":"26",
+			"id":"25",
 			"type":"INSPIRATION",
 			"name":"Trends we are loving this spring",
 			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
@@ -1337,7 +1338,7 @@
 			"writer":"BY MADISON BURTON"
 		},
 		{
-			"id":"27",
+			"id":"26",
 			"type":"INSPIRATION",
 			"name":"Ten amazing tips for a beautiful smile",
 			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
@@ -1346,7 +1347,9 @@
 			"writer":"BY MADISON BURTON"
 		}
 		
-	]
+	],
+
+	
 	"InstagramList":[
 		{
 			"id":"1",
