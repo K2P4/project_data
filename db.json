@@ -763,6 +763,45 @@
 		
 		
 	],
+
+	"HomeSlide":[
+		{
+			"id":"1BE",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/01/blog-list-img-7.jpg",
+			"name":"Natural makeup tips ",
+			"date":"JANUARY 15, 2021",
+			"writer":"BY KATHERINE BISHOP",
+			"number":"1"
+
+			
+
+		},
+		{
+			"id":"2BE",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/01/blog-list-img-5.jpg",
+			"name":"Natural makeup tips ",
+			"date":"JANUARY 15, 2021",
+			"writer":"New fashion trends",
+			"number":"2"
+
+			
+
+		},
+		{
+			"id":"3BE",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/01/blog-list-img-6.jpg",
+			"name":"Natural makeup tips ",
+			"date":"JANUARY 15, 2021",
+			"writer":"Make Great Photo",
+			"number":"3"
+
+			
+
+		}
+	],
 	"zoyaHiro":[
 			{
 			"id":"1",
