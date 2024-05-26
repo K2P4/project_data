@@ -766,7 +766,7 @@
 
 	"HomeSlide":[
 		{
-			"id":"1BE",
+			"id":"27",
 			"type":"LIFESTYLE",
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/01/blog-list-img-7.jpg",
 			"name":"Natural makeup tips ",
@@ -778,7 +778,7 @@
 
 		},
 		{
-			"id":"2BE",
+			"id":"28",
 			"type":"LIFESTYLE",
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/01/blog-list-img-5.jpg",
 			"name":"Natural makeup tips ",
@@ -790,7 +790,7 @@
 
 		},
 		{
-			"id":"3BE",
+			"id":"29",
 			"type":"LIFESTYLE",
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/01/blog-list-img-6.jpg",
 			"name":"Natural makeup tips ",
@@ -802,7 +802,7 @@
 
 		},
 		{
-			"id":"4BE",
+			"id":"30",
 			"type":"LIFESTYLE",
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-img-9.jpg",
 			"name":"Amazing dresses and gowns",
@@ -1396,7 +1396,55 @@
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-img-4.jpg",
 			"date":"DECEMBER 1, 2020",
 			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"27",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/01/blog-list-img-7.jpg",
+			"name":"Natural makeup tips ",
+			"date":"JANUARY 15, 2021",
+			"writer":"BY KATHERINE BISHOP",
+			"number":"1"
+
+			
+
+		},
+		{
+			"id":"28",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/01/blog-list-img-5.jpg",
+			"name":"Natural makeup tips ",
+			"date":"JANUARY 15, 2021",
+			"writer":"New fashion trends",
+			"number":"2"
+
+			
+
+		},
+		{
+			"id":"29",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/01/blog-list-img-6.jpg",
+			"name":"Natural makeup tips ",
+			"date":"JANUARY 15, 2021",
+			"writer":"Make Great Photo",
+			"number":"3"
+
+			
+
+		},{
+			"id":"30",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-img-9.jpg",
+			"name":"Amazing dresses and gowns",
+			"date":"JANUARY 15, 2021",
+			"writer":"Fashion Trends",
+			"number":"4"
+
+			
+
 		}
+
 		
 	],
 
