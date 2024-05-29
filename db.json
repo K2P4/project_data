@@ -1443,6 +1443,53 @@
 
 			
 
+		},
+		{
+			"id":"31",
+			"type":"INSPIRATION",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-img-1.jpg",
+			"name":"Ready for a getaway weekend",
+			"date":"MARCH 5, 2021",
+			"writer":"BY KATHERINE BISHOP",
+			"number":"4"
+
+			
+
+		},
+		{
+			"id":"32",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-img-8.jpg",
+			"name":"Best skincare routine for dry skin",
+			"date":"MARCH 5, 2021",
+			"writer":"BY KATHERINE BISHOP",
+			"number":"4"
+
+			
+
+		},
+		{
+			"id":"33",
+			"type":"TRAVEL",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-img-9.jpg",
+			"name":"Amazing dresses and gowns for prom",
+			"date":"MARCH 6, 2021",
+			"writer":"BY KATHERINE BISHOP",
+			"number":"4"
+
+			
+
+		},{
+			"id":"34",
+			"type":"TRAVEL",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-img-10.jpg",
+			"name":"Ten best recipes for a light dinner",
+			"date":"MARCH 8, 2021",
+			"writer":"BY KATHERINE BISHOP",
+			"number":"4"
+
+			
+
 		}
 
 		
