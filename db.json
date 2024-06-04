@@ -507,6 +507,132 @@
 		}
 	],
 
+	"LatestStyle":[
+		{
+			"id":"37",
+			"type":"BEAUTY",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-48.jpg",
+			"name":"You’ll love these new 2022 fashion trends",
+			"date":"NOVEMBER 1, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"38",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-49.jpg",
+			"name":"Books you’ll want to spend your salary on",
+			"date":"NOVEMBER 2, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+
+			"number":"4"
+		},
+		{
+			"id":"39",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/11/blog-list-img-50.jpg",
+			"name":"Products perfect for sensitive skin types",
+			"date":"NOVEMBER 2, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"40",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-51.jpg",
+			"name":"Take care of your plants during winter",
+			"date":"NOVEMBER 3, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"41",
+			"type":"TRAVEL",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-52.jpg",
+			"name":"Places where people find new experiences",
+			"date":"NOVEMBER 4, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"42",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-53.jpg",
+			"name":"New deal looks for any type of weather",
+			"date":"NOVEMBER 4, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"43",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-54.jpg",
+			"name":"Design your own incredible bathroom",
+			"date":"NOVEMBER 5, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"44",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-55.jpg",
+			"name":"We can’t get enough of these hairstyles",
+			"date":"NOVEMBER 6, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"45",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/10/blog-list-img-46.jpg",
+			"name":"Unexplored islands we’d like you to visit",
+			"date":"NOVEMBER 8, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"46",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-56.jpg",
+			"name":"Fashion news: trends to wear right away",
+			"date":"NOVEMBER 10, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"47",
+			"type":"BEAUTY",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-57.jpg",
+			"name":"Learn how to enjoy spending time alone",
+			"date":"NOVEMBER 20, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"48",
+			"type":"BEAUTY",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-58.jpg",
+			"name":"Natural makeup trends for pale skin",
+			"date":"NOVEMBER 20, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		}
+		
+		
+	],
+
 	"personalimage": [
 		{
 			"image1": "../../public/kp.jpg",
