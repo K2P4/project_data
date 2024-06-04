@@ -632,6 +632,62 @@
 		
 		
 	],
+	"LatestStyle2":[
+		{
+			"id":"21",
+			"type":"INSPIRATION",
+			"name":"Brand new designs",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-list-img-71.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"22",
+			"type":"BEAUTY",
+			"name":"Amazing color palettes",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-list-img-70.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"23",
+			"type":"BEAUTY",
+			"name":"Amazing color palettes",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/08/blog-list-img-69.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},{
+			"id":"12",
+			"type":"INSPIRATION",
+			"name":"Breakfast ideas to recreate at home",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/10/blog-list-img-72.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"13",
+			"type":"INSPIRATION",
+			"name":"Gel face creams for hydrated & plump skin",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/11/blog-list-img-73.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"14",
+			"type":"INSPIRATION",
+			"name":"Top 5 photo printers to save your memories",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/12/blog-list-img-74.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		
+	],
 
 	"personalimage": [
 		{
