@@ -688,6 +688,80 @@
 		}
 		
 	],
+	"LatestStyle3":[
+		{
+			"id":"52",
+			"type":"INSPIRATION",
+			"name":"Muted green interiors are the new trend",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-59.jpg",
+			"date":"DECEMBER 12, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"53",
+			"type":"BEAUTY",
+			"name":"Scented candles perfect for relaxing",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-60.jpg",
+			"date":"DECEMBER 11, 2020",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"54",
+			"type":"BEAUTY",
+			"name":"Ten minute recipes ideal for summertime",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-61.jpg",
+			"date":"DECEMBER 10, 2020",
+			"writer":"BY MADISON BURTON"
+		},{
+			"id":"55",
+			"type":"INSPIRATION",
+			"name":"Pictures of the year – real life & moments",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-62.jpg",
+			"date":"DECEMBER 9, 2020",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"56",
+			"type":"INSPIRATION",
+			"name":"Minimalistic interior ideas for a bedroom",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-63.jpg",
+			"date":"DECEMBER 8, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"57",
+			"type":"TRAVEL",
+			"name":"Processing tips to improve your photos",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-64.jpg",
+			"date":"DECEMBER 7, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"58",
+			"type":"BEAUTY",
+			"name":"Ten skincare products for sensitive skin",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-65.jpg",
+			"date":"DECEMBER 12, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"59",
+			"type":"BEAUTY",
+			"name":"Cushion covers you can sew by yourself",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-66.jpg",
+			"date":"ECEMBER 5, 2020",
+			"writer":"BY MADISON BURTON"
+		}
+		
+	],
+
 
 	"personalimage": [
 		{
@@ -1318,6 +1392,76 @@
 	],
 
 	"ZoyaAllProducts":[
+		{
+			"id":"52",
+			"type":"INSPIRATION",
+			"name":"Muted green interiors are the new trend",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-59.jpg",
+			"date":"DECEMBER 12, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"53",
+			"type":"BEAUTY",
+			"name":"Scented candles perfect for relaxing",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-60.jpg",
+			"date":"DECEMBER 11, 2020",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"54",
+			"type":"BEAUTY",
+			"name":"Ten minute recipes ideal for summertime",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-61.jpg",
+			"date":"DECEMBER 10, 2020",
+			"writer":"BY MADISON BURTON"
+		},{
+			"id":"55",
+			"type":"INSPIRATION",
+			"name":"Pictures of the year – real life & moments",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-62.jpg",
+			"date":"DECEMBER 9, 2020",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"56",
+			"type":"INSPIRATION",
+			"name":"Minimalistic interior ideas for a bedroom",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-63.jpg",
+			"date":"DECEMBER 8, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"57",
+			"type":"TRAVEL",
+			"name":"Processing tips to improve your photos",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-64.jpg",
+			"date":"DECEMBER 7, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"58",
+			"type":"BEAUTY",
+			"name":"Ten skincare products for sensitive skin",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-65.jpg",
+			"date":"DECEMBER 12, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"59",
+			"type":"BEAUTY",
+			"name":"Cushion covers you can sew by yourself",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-66.jpg",
+			"date":"ECEMBER 5, 2020",
+			"writer":"BY MADISON BURTON"
+		},
 		{
 			"id":"1",
 			"type":"TRAVEL",
