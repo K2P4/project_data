@@ -507,6 +507,84 @@
 		}
 	],
 
+	"FashionItem":[{
+		"id":"61",
+		"type":"LIFESTYLE",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-14.jpg",
+		"name":"Fall/Winter women’s shoes fashion trend",
+		"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+		"date":"APRIL 14, 2021",
+		"writer":"BY NICOLE CUNNINGHAM",
+		"number":"4"
+	},
+	{
+		"id":"62",
+		"type":"LIFESTYLE",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-15.jpg",
+		"name":"The best foundation you can find on sale",
+		"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+		"date":"APRIL 14, 2021",
+		"writer":"BY NICOLE CUNNINGHAM",
+		"number":"4"
+	},
+	{
+		"id":"63",
+		"type":"ENTERTAINMENT",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-list-img-20.jpg",
+		"name":"How to dress for work: 15 great tips",
+		"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+		"date":"MARCH 15, 2021",
+		"writer":"BY NICOLE CUNNINGHAM",
+		"number":"4"
+	},
+	{
+		"id":"64",
+		"type":"ENTERTAINMENT",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-list-img-21.jpg",
+		"name":"White handbag with gold chain strap",
+		"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+		"date":"MARCH 15, 2021",
+		"writer":"BY NICOLE CUNNINGHAM",
+		"number":"4"
+	},
+	{
+		"id":"65",
+		"type":"ENTERTAINMENT",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-list-img-22.jpg",
+		"name":"Fashion instagram accounts to follow",
+		"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+		"date":"MARCH 15, 2021",
+		"writer":"BY NICOLE CUNNINGHAM",
+		"number":"4"
+	},{
+		"id":"66",
+		"type":"ENTERTAINMENT",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-list-img-23.jpg",
+		"name":"New eyebrow trends you need to try",
+		"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+		"date":"MARCH 15, 2021",
+		"writer":"BY NICOLE CUNNINGHAM",
+		"number":"4"
+	},{
+		"id":"67",
+		"type":"ENTERTAINMENT",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-17.jpg",
+		"name":"How to choose the right color palette",
+		"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+		"date":"APRIL 14, 2021",
+		"writer":"BY NICOLE CUNNINGHAM",
+		"number":"4"
+	},{
+		"id":"68",
+		"type":"ENTERTAINMENT",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-18.jpgg",
+		"name":"Summer: what to love this season",
+		"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+		"date":"APRIL 14, 2021",
+		"writer":"BY NICOLE CUNNINGHAM",
+		"number":"4"
+	}],
+
 	"LatestStyle":[
 		{
 			"id":"37",
@@ -1947,6 +2025,82 @@
 			"date":"NOVEMBER 20, 2020",
 			"writer":"BY KATHERINE BISHOP",
 			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},{
+			"id":"61",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-14.jpg",
+			"name":"Fall/Winter women’s shoes fashion trend",
+			"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+			"date":"APRIL 14, 2021",
+			"writer":"BY NICOLE CUNNINGHAM",
+			"number":"4"
+		},
+		{
+			"id":"62",
+			"type":"LIFESTYLE",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-15.jpg",
+			"name":"The best foundation you can find on sale",
+			"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+			"date":"APRIL 14, 2021",
+			"writer":"BY NICOLE CUNNINGHAM",
+			"number":"4"
+		},
+		{
+			"id":"63",
+			"type":"ENTERTAINMENT",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-list-img-20.jpg",
+			"name":"How to dress for work: 15 great tips",
+			"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+			"date":"MARCH 15, 2021",
+			"writer":"BY NICOLE CUNNINGHAM",
+			"number":"4"
+		},
+		{
+			"id":"64",
+			"type":"ENTERTAINMENT",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-list-img-21.jpg",
+			"name":"White handbag with gold chain strap",
+			"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+			"date":"MARCH 15, 2021",
+			"writer":"BY NICOLE CUNNINGHAM",
+			"number":"4"
+		},
+		{
+			"id":"65",
+			"type":"ENTERTAINMENT",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-list-img-22.jpg",
+			"name":"Fashion instagram accounts to follow",
+			"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+			"date":"MARCH 15, 2021",
+			"writer":"BY NICOLE CUNNINGHAM",
+			"number":"4"
+		},{
+			"id":"66",
+			"type":"ENTERTAINMENT",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/03/blog-list-img-23.jpg",
+			"name":"New eyebrow trends you need to try",
+			"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+			"date":"MARCH 15, 2021",
+			"writer":"BY NICOLE CUNNINGHAM",
+			"number":"4"
+		},{
+			"id":"67",
+			"type":"ENTERTAINMENT",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-17.jpg",
+			"name":"How to choose the right color palette",
+			"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+			"date":"APRIL 14, 2021",
+			"writer":"BY NICOLE CUNNINGHAM",
+			"number":"4"
+		},{
+			"id":"68",
+			"type":"ENTERTAINMENT",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-18.jpgg",
+			"name":"Summer: what to love this season",
+			"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+			"date":"APRIL 14, 2021",
+			"writer":"BY NICOLE CUNNINGHAM",
 			"number":"4"
 		}
 
