@@ -1437,7 +1437,7 @@
 		
 	],
 
-	"DetailPost":[
+"DetailPost":[
 		{
 			"id":"24",
 			"type":"INSPIRATION",
@@ -2111,14 +2111,16 @@
 	"InstagramList":[
 		{
 			"id":"1",
-			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/196467978_475533720194029_1144985127975019508_nlow.jpg"
-		
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/196467978_475533720194029_1144985127975019508_nlow.jpg",
+			"url":"https://www.instagram.com/p/CPsiMrzrEFE/?_ga=2.143926647.33691740.1718370624-21948837.1717335744",
 		},
 		{
 			"id":"2",
-			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/196093557_931860337599919_3521480414237937214_nlow.jpg"
-		
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/196093557_931860337599919_3521480414237937214_nlow.jpg",
+			"url":"https://www.instagram.com/p/CPsiMrzrEFE/?_ga=2.143926647.33691740.1718370624-21948837.1717335744"
+
 		},
+		
 		{
 			"id":"3",
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/sb-instagram-feed-images/196289265_512667126553303_108529473582482048_nlow.jpg"
