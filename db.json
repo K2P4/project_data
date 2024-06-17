@@ -1531,6 +1531,25 @@
 			"date":"DECEMBER 12, 2020 ",
 			"writer":"BY MADISON BURTON"
 		},
+
+		{
+			"id":"71",
+			"type":"INTERIOR",
+			"name":"Lovely & cheap indoor plants",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-img-47.jpg",
+			"date":"SEPTEMBER 21, 2019",
+			"writer":" BY KATHERINE BISHOP "
+		},
+		{
+			"id":"72",
+			"type":"INTERIOR",
+			"name":"Best restaurants in Europe",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/09/blog-img-34.jpg",
+			"date":"SEPTEMBER 20, 2019",
+			"writer":" BY KATHERINE BISHOP"
+		},
 		{
 			"id":"59",
 			"type":"BEAUTY",
