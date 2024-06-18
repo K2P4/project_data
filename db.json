@@ -246,6 +246,9 @@
 		}
 	],
 
+
+	
+
 	"men": [
 		{
 			"id": "1",
@@ -1668,6 +1671,75 @@
 			"date":"APRIL 19,2021 ",
 			"writer":"BY MADISON BURTON"
 		},
+
+		{
+			"id":"73",
+			"type":"BEAUTY",
+			"name":"Muted green interiors are the new trend",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-59.jpg",
+			"date":"DECEMBER 9, 2020",
+			"writer":"BY MADISON BURTON"
+			
+			
+		},
+		{
+			"id":"74",
+			"type":"BEAUTY",
+			"name":"Pictures of the year – real life & moments",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-62.jpg",
+			"date":"DECEMBER 9, 2020",
+			"writer":"BY MADISON BURTON"
+		},
+
+		{
+			"id":"75",
+			"type":"BEAUTY",
+			"name":"Minimalistic interior ideas for a bedroom",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-63.jpg",
+			"date":"DECEMBER 8, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+
+		{
+			"id":"76",
+			"type":"BEAUTY",
+			"name":"Lovely & cheap indoor plants",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-img-47.jpg",
+			"date":"SEPTEMBER 21, 2019",
+			"writer":" BY KATHERINE BISHOP "
+		},
+		{
+			"id":"77",
+			"type":"BEAUTY",
+			"name":"Best restaurants in Europe",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/09/blog-img-34.jpg",
+			"date":"SEPTEMBER 20, 2019",
+			"writer":" BY KATHERINE BISHOP"
+		},
+		{
+			"id":"78",
+			"type":"BEAUTY",
+			"name":"Mid-century furniture in 21st century home",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/08/blog-list-img-69.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"79",
+			"type":"ENTERTAINMENT",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-18.jpg",
+			"name":"Summer: what to love this season",
+			"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+			"date":"APRIL 14, 2021",
+			"writer":"BY NICOLE CUNNINGHAM",
+			"number":"4"
+		},
 		{
 			"id":"10",
 			"type":"INSPIRATION",
@@ -2122,8 +2194,184 @@
 			"writer":"BY NICOLE CUNNINGHAM",
 			"number":"4"
 		}
+	],
 
 		
+	
+
+	"BeautyOne":[
+		{
+			"id":"47",
+			"type":"BEAUTY",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-57.jpg",
+			"name":"Learn how to enjoy spending time alone",
+			"date":"NOVEMBER 20, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"48",
+			"type":"BEAUTY",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-58.jpg",
+			"name":"Natural makeup trends for pale skin",
+			"date":"NOVEMBER 20, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"37",
+			"type":"BEAUTY",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/11/blog-list-img-48.jpg",
+			"name":"You’ll love these new 2022 fashion trends",
+			"date":"NOVEMBER 1, 2020",
+			"writer":"BY KATHERINE BISHOP",
+			"audio" : "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/b-audio-everytings-nice-1.mp3?_=1",
+			"number":"4"
+		},
+		{
+			"id":"22",
+			"type":"BEAUTY",
+			"name":"Amazing color palettes",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-list-img-70.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"23",
+			"type":"BEAUTY",
+			"name":"Amazing color palettes",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/08/blog-list-img-69.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"16",
+			"type":"BEAUTY",
+			"name":"New clean beauty hair products to try out",
+			"description":"Improving your fashion photography skills",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-83.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		}
+	],
+
+	"BeautyTwo":[
+	{
+		"id":"17",
+		"type":"BEAUTY",
+		"name":"How to write a heart-warming love letter",
+		"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-84.jpg",
+		"date":"APRIL 19,2021 ",
+		"writer":"BY MADISON BURTON"
+	},
+	{
+		"id":"18",
+		"type":"BEAUTY",
+		"name":"Beginner’s guide to luxury skincare brands",
+		"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-85.jpg",
+		"date":"APRIL 19,2021 ",
+		"writer":"BY MADISON BURTON"
+	},
+	{
+		"id":"59",
+		"type":"BEAUTY",
+		"name":"Cushion covers you can sew by yourself",
+		"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-66.jpg",
+		"date":"ECEMBER 5, 2020",
+		"writer":"BY MADISON BURTON"
+	},
+	{
+		"id":"58",
+		"type":"BEAUTY",
+		"name":"Ten skincare products for sensitive skin",
+		"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-65.jpg",
+		"date":"DECEMBER 12, 2020 ",
+		"writer":"BY MADISON BURTON"
+	},{
+		"id":"53",
+		"type":"BEAUTY",
+		"name":"Scented candles perfect for relaxing",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-60.jpg",
+		"date":"DECEMBER 11, 2020",
+		"writer":"BY MADISON BURTON"
+	},
+	{
+		"id":"54",
+		"type":"BEAUTY",
+		"name":"Ten minute recipes ideal for summertime",
+		"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+		"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-61.jpg",
+		"date":"DECEMBER 10, 2020",
+		"writer":"BY MADISON BURTON"
+	}],
+
+	"BeautyThree":[
+		{
+			"id":"79",
+			"type":"ENTERTAINMENT",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/blog-list-img-18.jpg",
+			"name":"Summer: what to love this season",
+			"description":"Lorem ipsum dolor sit amet, adipiscing ligula elit. Cumsocis Theme sed natoque ut sed penatibus leo eget bibe dum sodales, velit cursus. Perr ad platonem refer rentur, omnissSHARE",
+			"date":"APRIL 14, 2021",
+			"writer":"BY NICOLE CUNNINGHAM",
+			"number":"4"
+		},
+	
+		{
+			"id":"74",
+			"type":"BEAUTY",
+			"name":"Pictures of the year – real life & moments",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-62.jpg",
+			"date":"DECEMBER 9, 2020",
+			"writer":"BY MADISON BURTON"
+		},
+
+		{
+			"id":"75",
+			"type":"BEAUTY",
+			"name":"Minimalistic interior ideas for a bedroom",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-63.jpg",
+			"date":"DECEMBER 8, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+
+		{
+			"id":"76",
+			"type":"BEAUTY",
+			"name":"Lovely & cheap indoor plants",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-img-47.jpg",
+			"date":"SEPTEMBER 21, 2019",
+			"writer":" BY KATHERINE BISHOP "
+		},
+		{
+			"id":"77",
+			"type":"BEAUTY",
+			"name":"Best restaurants in Europe",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/09/blog-img-34.jpg",
+			"date":"SEPTEMBER 20, 2019",
+			"writer":" BY KATHERINE BISHOP"
+		},
+		{
+			"id":"78",
+			"type":"BEAUTY",
+			"name":"Mid-century furniture in 21st century home",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/08/blog-list-img-69.jpg",
+			"date":"APRIL 19,2021 ",
+			"writer":"BY MADISON BURTON"
+		}
 	],
 
 	
