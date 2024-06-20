@@ -2196,7 +2196,124 @@
 		}
 	],
 
-		
+	"InspirationOne": [
+		{
+			"id":"55",
+			"type":"INSPIRATION",
+			"name":"Pictures of the year – real life & moments",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-62.jpg",
+			"date":"DECEMBER 9, 2020",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"56",
+			"type":"INSPIRATION",
+			"name":"Minimalistic interior ideas for a bedroom",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-63.jpg",
+			"date":"DECEMBER 8, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"57",
+			"type":"INSPIRATION",
+			"name":"Processing tips to improve your photos",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-64.jpg",
+			"date":"DECEMBER 7, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"58",
+			"type":"INSPIRATION",
+			"name":"Ten skincare products for sensitive skin",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-65.jpg",
+			"date":"DECEMBER 12, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+
+		{
+			"id":"71",
+			"type":"INSPIRATION",
+			"name":"Lovely & cheap indoor plants",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-img-47.jpg",
+			"date":"SEPTEMBER 21, 2019",
+			"writer":" BY KATHERINE BISHOP "
+		},
+		{
+			"id":"52",
+			"type":"INSPIRATION",
+			"name":"Muted green interiors are the new trend",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-59.jpg",
+			"date":"DECEMBER 12, 2020 ",
+			"writer":"BY MADISON BURTON"
+		}
+	],
+
+
+	"InspirationTwo":[
+		{
+			"id":"52",
+			"type":"INSPIRATION",
+			"name":"Muted green interiors are the new trend",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-59.jpg",
+			"date":"DECEMBER 12, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+
+		{
+			"id":"58",
+			"type":"INSPIRATION",
+			"name":"Ten skincare products for sensitive skin",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-65.jpg",
+			"date":"DECEMBER 12, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+
+		{
+			"id":"71",
+			"type":"INSPIRATION",
+			"name":"Lovely & cheap indoor plants",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2019/09/blog-img-47.jpg",
+			"date":"SEPTEMBER 21, 2019",
+			"writer":" BY KATHERINE BISHOP "
+		},
+		{
+			"id":"55",
+			"type":"INSPIRATION",
+			"name":"Pictures of the year – real life & moments",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-62.jpg",
+			"date":"DECEMBER 9, 2020",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"56",
+			"type":"INSPIRATION",
+			"name":"Minimalistic interior ideas for a bedroom",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-63.jpg",
+			"date":"DECEMBER 8, 2020 ",
+			"writer":"BY MADISON BURTON"
+		},
+		{
+			"id":"57",
+			"type":"INSPIRATION",
+			"name":"Processing tips to improve your photos",
+			"description":"K accum san pericula usu an, in pri dolorum denique. Cu movet debitis cum. Vix paulo evertitur cu, conceptam constituam te his, meis euismod",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2020/12/blog-list-img-64.jpg",
+			"date":"DECEMBER 7, 2020 ",
+			"writer":"BY MADISON BURTON"
+		}
+
+	],
 	
 
 	"BeautyOne":[
