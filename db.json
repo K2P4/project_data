@@ -853,6 +853,218 @@
 		}
 	],
 
+	"Shoplist-Products":[
+		{
+			"id":"1s",
+			"type":"NEW",
+			"name":"Decorative Plates",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-18.jpg",
+			"sku": "015",
+			"category": "Inspiration, Lifestyle",
+			"tag": "Decor, Kitchen",
+			"price": "115.00",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg"
+
+
+
+		},
+		{
+			"id":"2s",
+			"type":"",
+			"name":"Marble Cup",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-19.jpg",
+			"sku": "016",
+			"category": "Lifestyle",
+			"tag": "Decor, Kitchen",
+			"price": "49.00",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg"
+
+
+
+		},
+
+		{
+			"id":"3s",
+			"type":"NEW",
+			"name":"Modern Chair",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-7.jpg",
+			"sku": "017",
+			"category": "Inspiration, Lifestyle",
+			"tag": "Decor, Furniture",
+			"price": "139.00",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg"
+
+
+
+		},
+		{
+			"id":"6s",
+			"type":"",
+			"name":"Soap Dispensers",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-10.jpg",
+			"sku": "008",
+			"category": "Lifestyle",
+			"tag": "Bathroom, Decor",
+			"price": "45.00",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg"
+
+
+
+		},
+		{
+			"id":"5s",
+			"type":"NEW",
+			"name":"Pink Planter",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-9.jpg",
+			"sku": "018",
+			"category": "Inspiration, Lifestyle",
+			"tag": "Decor, Furniture",
+			"price": "94.00",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg",
+			"review" : [
+				{
+					"name":"Linda Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "4",
+					"date":" April 12, 2021",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				},
+				{
+					"name":"Nicole Cunningham",
+					"rating": "3",
+					"date":" April 20, 2021",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis.Aperiam alterum cu pri, vel prompta atomorum perpetua ex. Eu sit ullum vivendum, ea cum ferri porro nominavi. Ludus elaboraret at eum, ne pro aeterno assueverit. Usu ex prodesset gloriatur",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-1-100x100.jpg"
+
+				}
+
+			] 
+
+
+		},
+		{
+			"id":"4s",
+			"type":"",
+			"name":"Sunglasses",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-7.jpg",
+			"sku": "017",
+			"category": "Lifestyle",
+			"tag": "Accessories, Fashion",
+			"price": "62.00",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg"
+
+
+
+		},
+		{
+			"id":"7s",
+			"type":"",
+			"name":"Dry Plant",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-20.jpg",
+			"sku": "019",
+			"category": "Lifestyle",
+			"tag": "Decor",
+			"price": "24.00",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg"
+
+
+
+		},
+		{
+			"id":"8s",
+			"type":"",
+			"name":"Coffee Table Books",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-12.jpg",
+			"sku": "009",
+			"category": "Inspiration, Lifestyle",
+			"tag": "Books, Decor",
+			"price": "38.00",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg"
+
+
+
+		},
+		{
+			"id":"9s",
+			"type":"SALE",
+			"name":"Wooden Bowl",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-13.jpg",
+			"sku": "010",
+			"category": "Lifestyle",
+			"tag": "Decor, Minimal, Storage",
+			"price": "30.00",
+			"disPrice" : "45.00",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg",
+			"review" : [
+				{
+					"name":"Linda Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "4",
+					"date":" April 12, 2021",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				}
+
+			] 
+
+
+
+		},
+
+		{
+			"id":"10s",
+			"type":"SALE",
+			"name":"Face Serum",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-21.jpg",
+			"sku": "020",
+			"category": "Beauty, Lifestyle",
+			"tag": "Beauty, Tools",
+			"price": "59.00",
+			"disPrice" : "70.00",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg"
+		
+
+
+		},
+		{
+			"id":"11s",
+			"type":"SALE",
+			"name":"Vintage Camera",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-21.jpg",
+			"sku": "021",
+			"category": "Lifestyle",
+			"tag": "Decor, Tools",
+			"price": "459.00",
+			"disPrice" : "70.00",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg"
+		
+
+
+		}
+
+	],
+
 	"popular": [
 		{
 			"id": "1",
@@ -960,8 +1172,6 @@
 			"id": "8",
 			"name": "Adidas Stan Smith",
 			"price": 80,
-			"title": "A minimalist tennis shoe known for its clean design.",
-			"description": "For 50 years, the adidas Stan Smith Shoes have been a staple on the courts and on the streets. Their minimalist style is the very definition of effortless cool. But even icons have to change to stay rooted in the present, which is why this version of the trainers is created with recycled materials. It's part of our effort and commitment to help end plastic waste.",
 			"image": "https://i.ibb.co/52ZKmtF/5b51d40de3bd4ff5b4479c78316ada75-removebg-preview.png"
 		},
 		{
