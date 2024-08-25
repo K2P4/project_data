@@ -872,7 +872,7 @@
 		},
 		{
 			"id":"2s",
-			"type":"",
+			
 			"name":"Marble Cup",
 			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-19.jpg",
@@ -905,7 +905,7 @@
 		},
 		{
 			"id":"6s",
-			"type":"",
+			
 			"name":"Soap Dispensers",
 			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-10.jpg",
@@ -954,10 +954,10 @@
 		},
 		{
 			"id":"4s",
-			"type":"",
+			
 			"name":"Sunglasses",
 			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
-			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-7.jpg",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-8.jpg",
 			"sku": "017",
 			"category": "Lifestyle",
 			"tag": "Accessories, Fashion",
@@ -970,7 +970,7 @@
 		},
 		{
 			"id":"7s",
-			"type":"",
+			
 			"name":"Dry Plant",
 			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-20.jpg",
@@ -986,7 +986,7 @@
 		},
 		{
 			"id":"8s",
-			"type":"",
+			
 			"name":"Coffee Table Books",
 			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
 			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-12.jpg",
@@ -1000,6 +1000,24 @@
 
 
 		},
+
+		{
+			"id":"13s",
+			
+			"name":"Makeup Brush",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-3.jpg",
+			"sku": "021",
+			"category": "Beauty, Lifestyle",
+			"tag": "Beauty, Tools",
+			"price": "24.00",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg"
+
+
+
+		},
+		
 		{
 			"id":"9s",
 			"type":"SALE",
@@ -1050,7 +1068,7 @@
 			"type":"SALE",
 			"name":"Vintage Camera",
 			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
-			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-21.jpg",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-22.jpg",
 			"sku": "021",
 			"category": "Lifestyle",
 			"tag": "Decor, Tools",
