@@ -1079,7 +1079,134 @@
 		
 
 
+		},
+		{
+			"id":"15s",
+			"trend":"top",
+			"type":"",
+			"name":"Wax Candle",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-15.jpg",
+			"sku": "032",
+			"category": "Lifestyle",
+			"tag": "Accessories, Decor",
+			"price": "39.00",
+			
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg",
+			"review" : [
+				{
+					"name":"Linda Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "5",
+					"date":" April 12, 2021",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				},
+				{
+					"name":"Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "5",
+					"date":" April 12, 2022",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				},
+				{
+					"name":"Ellis",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "5",
+					"date":" April 12, 2022",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				}
+
+			] 
+
+
+
+		},
+		{
+			"id":"16s",
+			"trend":"top",
+			"type":"NEW",
+			"name":"Purse",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-16.jpg",
+			"sku": "031",
+			"category": "Lifestyle",
+			"tag": "Accessories, Fashion",
+			"price": "115.00",
+			
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg",
+			"review" : [
+				{
+					"name":"Linda Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "5",
+					"date":" April 12, 2021",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				},
+				{
+					"name":"Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "5",
+					"date":" April 12, 2022",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				},
+				{
+					"name":"Ellis",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "5",
+					"date":" April 12, 2022",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				}
+
+			] 
+
+
+
+		},
+		{
+			"id":"17s",
+			"trend":"top",
+		
+			"name":"Round Sunglasses",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-17.jpg",
+			"sku": "033",
+			"category": "Lifestyle",
+			"tag": "Accessories, Fashion",
+			"price": "59.00",
+			
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg",
+			"review" : [
+				{
+					"name":"Linda Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "5",
+					"date":" April 12, 2021",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				},
+				{
+					"name":"Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "5",
+					"date":" April 12, 2022",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				},
+				{
+					"name":"Ellis",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "5",
+					"date":" April 12, 2022",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				}
+
+			] 
+
+
+
 		}
+
 
 	],
 
