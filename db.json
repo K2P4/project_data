@@ -931,6 +931,7 @@
 			"price": "94.00",
 			"dimension":"150 x 200 x 250 cm",
 			"weight": "25kg",
+			"ratingTotal": "4",
 			"review" : [
 				{
 					"name":"Linda Ford",
@@ -1031,6 +1032,7 @@
 			"disPrice" : "45.00",
 			"dimension":"150 x 200 x 250 cm",
 			"weight": "25kg",
+			"ratingtotal": "4",
 			"review" : [
 				{
 					"name":"Linda Ford",
@@ -1091,7 +1093,7 @@
 			"category": "Lifestyle",
 			"tag": "Accessories, Decor",
 			"price": "39.00",
-			
+			"ratingtotal": "5",
 			"dimension":"150 x 200 x 250 cm",
 			"weight": "25kg",
 			"review" : [
@@ -1136,6 +1138,7 @@
 			
 			"dimension":"150 x 200 x 250 cm",
 			"weight": "25kg",
+			"ratingtotal": "5",
 			"review" : [
 				{
 					"name":"Linda Ford",
@@ -1178,6 +1181,7 @@
 			
 			"dimension":"150 x 200 x 250 cm",
 			"weight": "25kg",
+			"ratingtotal": "5",
 			"review" : [
 				{
 					"name":"Linda Ford",
