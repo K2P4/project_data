@@ -1296,7 +1296,149 @@
 
 
 
+		},
+			{
+			"id":"34s",
+			
+		
+			"name":"Ceramic Jar",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-2.jpg",
+			"category": "Lifestyle",
+			"tag": "Decor, Minimal, Natural, Storage",
+			"price": "59.00",
+			"sku": "039",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg",
+			"ratingtotal": "4",
+			"review" : [
+				{
+					"name":"Linda Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "4",
+					"date":" April 12, 2021",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				}
+
+			] 
+
+
+
+		},
+		{
+			"id":"35s",
+			"type":"NEW",
+		
+			"name":"Blue Bag",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-25.jpg",
+			"category": "Lifestyle",
+			"tag": "Accessories, Decor, Fashion",
+			"price": "135.00",
+			"sku": "041",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg",
+			"ratingtotal": "4",
+			"review" : [
+				{
+					"name":"Linda Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "4",
+					"date":" April 12, 2021",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				}
+
+			] 
+
+
+
+		},
+		{
+			"id":"36s",
+			"type":"SALE",
+		
+			"name":"Orange Flats",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-4.jpg",
+			"category": "Lifestyle",
+			"tag": "Fashion, Minimal, Shoes",
+			"price": "59.00",
+			"disPrice" : "70.00",
+			"sku": "042",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg",
+			"ratingtotal": "3",
+			"review" : [
+				{
+					"name":"Linda Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "3",
+					"date":" April 12, 2021",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				}
+
+			] 
+
+
+
+		},
+		{
+			"id":"37s",
+			"name":"Modern Lamp",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-26.jpg",
+			"category": "Inspiration, Lifestyle",
+			"tag": "Decor, Furniture, Natural",
+			"price": "98.00",
+			
+			"sku": "042",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg",
+			"ratingtotal": "3",
+			"review" : [
+				{
+					"name":"Linda Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "3",
+					"date":" April 12, 2021",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				}
+
+			] 
+
+
+
+		},
+		{
+			"id":"38s",
+			"name":"Wooden Chair",
+			"type":"NEW",
+			"description":"Homero accusam principes an duo. Feugiat accusam ne per, sea erat ubique voluptua ut. Nostro possim scriptorem an vel, et nec error nobis constituam. Solet ullamcorpe",
+			"image":"https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/shop-img-27.jpg",
+			"category": "Inspiration, Lifestyle",
+			"tag": "Furniture, Natural",
+			"price": "178.00",
+			
+			"sku": "044",
+			"dimension":"150 x 200 x 250 cm",
+			"weight": "25kg",
+			"ratingtotal": "3",
+			"review" : [
+				{
+					"name":"Linda Ford",
+					"image": "https://zoya.qodeinteractive.com/wp-content/uploads/2021/04/user-img-2-100x100.jpg",
+					"rating": "3",
+					"date":" April 12, 2021",
+					"description": " Mazim persius ut duo. Ea facilis fuisset apeirian mel, sit nostrud blandit efficiantur at, suscipit eleifend ei vis."
+				}
+
+			] 
+
+
+
 		}
+		
+		
 
 
 
