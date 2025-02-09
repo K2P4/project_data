@@ -246,6 +246,99 @@
 		}
 	],
 
+	"cats": [
+    {
+      "name": "Whiskers",
+      "breed": "Siamese",
+      "species": "cat",
+      "gender": "male",
+      "age": 3,
+      "color": "cream/brown",
+      "weight": 8,
+      "location": "New York",
+      "notes": "Very vocal and loves attention."
+    },
+    {
+      "name": "Luna",
+      "breed": "Maine Coon",
+      "species": "cat",
+      "gender": "female",
+      "age": 5,
+      "color": "gray/white",
+      "weight": 12,
+      "location": "Los Angeles",
+      "notes": "Loves to climb and explore high places."
+    },
+    {
+      "name": "Milo",
+      "breed": "British Shorthair",
+      "species": "cat",
+      "gender": "male",
+      "age": 4,
+      "color": "blue/gray",
+      "weight": 10,
+      "location": "Chicago",
+      "notes": "Very calm and enjoys napping."
+    },
+    {
+      "name": "Cleo",
+      "breed": "Bengal",
+      "species": "cat",
+      "gender": "female",
+      "age": 2,
+      "color": "gold/brown",
+      "weight": 9,
+      "location": "Miami",
+      "notes": "Active and playful, loves chasing toys."
+    }
+  ],
+
+  "dogs": [
+    {
+      "name": "Buddy",
+      "breed": "Golden Retriever",
+      "species": "dog",
+      "gender": "male",
+      "age": 4,
+      "color": "golden",
+      "weight": 65,
+      "location": "New York",
+      "notes": "Friendly and loves to play fetch."
+    },
+    {
+      "name": "Daisy",
+      "breed": "Beagle",
+      "species": "dog",
+      "gender": "female",
+      "age": 3,
+      "color": "tricolor",
+      "weight": 25,
+      "location": "Los Angeles",
+      "notes": "Curious and loves to sniff around."
+    },
+    {
+      "name": "Max",
+      "breed": "German Shepherd",
+      "species": "dog",
+      "gender": "male",
+      "age": 5,
+      "color": "black/tan",
+      "weight": 75,
+      "location": "Chicago",
+      "notes": "Loyal and protective, great guard dog."
+    },
+    {
+      "name": "Bella",
+      "breed": "Labrador Retriever",
+      "species": "dog",
+      "gender": "female",
+      "age": 2,
+      "color": "chocolate",
+      "weight": 60,
+      "location": "Miami",
+      "notes": "Loves swimming and playing with kids."
+    }
+  ],
 
 	
 
